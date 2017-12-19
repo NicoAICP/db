@@ -1,0 +1,633 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<releases>
+<release1>
+	<id>1</id>
+	<name>The Legend of Zelda: Breath of the Wild</name>
+	<publisher>Nintendo</publisher>
+	<region>WLD</region>
+	<languages>en,fr,de,it,es,ru,ja</languages>
+	<group>BigBlueBox</group>
+	<imagesize>0</imagesize>
+	<serial>LA-H-AAAAA</serial>
+	<titleid>01007EF00011E000 </titleid>
+	<imgcrc></imgcrc>
+	<filename>bbb-h-aaaaa</filename>
+	<releasename>The.Legend.of.Zelda.Breath.of.the.Wild.NSW-BigBlueBox</releasename>
+	<trimmedsize>0</trimmedsize>
+	<firmware>1.0.0</firmware>
+	<type>1</type>
+	<card>1</card>
+</release1>
+<release2>
+	<id>2</id>
+	<name>Mario Kart 8 Deluxe</name>
+	<publisher>Nintendo</publisher>
+	<region>WLD</region>
+	<languages>en,fr,de,it,es,nl,pt,ru,ja</languages>
+	<group>BigBlueBox</group>
+	<imagesize>0</imagesize>
+	<serial>LA-H-AABPA</serial>
+	<titleid>0100152000022000</titleid>
+	<imgcrc></imgcrc>
+	<filename>bbb-h-aabpa</filename>
+	<releasename>Mario.Kart.8.Deluxe.NSW-BigBlueBox</releasename>
+	<trimmedsize>0</trimmedsize>
+	<firmware>1.0.0</firmware>
+	<type>1</type>
+	<card>1</card>
+</release2>
+<release3>
+	<id>3</id>
+	<name>ARMS</name>
+	<publisher>Nintendo</publisher>
+	<region>WLD</region>
+	<languages>en,fr,de,it,es,nl,ru,ja</languages>
+	<group>BigBlueBox</group>
+	<imagesize>0</imagesize>
+	<serial>LA-H-AABQA</serial>
+	<titleid>01009B500007C000</titleid>
+	<imgcrc></imgcrc>
+	<filename>bbb-h-aabqa</filename>
+	<releasename>ARMS.NSW-BigBlueBox</releasename>
+	<trimmedsize>0</trimmedsize>
+	<firmware>2.1.0</firmware>
+	<type>1</type>
+	<card>1</card>
+</release3>
+<release4>
+	<id>4</id>
+	<name>Has Been Heroes</name>
+	<publisher>Gamestop &amp; Gametrust</publisher>
+	<region>WLD</region>
+	<languages>en,fr,de,it,es</languages>
+	<group>BigBlueBox</group>
+	<imagesize>0</imagesize>
+	<serial>LA-H-ABMKA</serial>
+	<titleid>0100E29001298000</titleid>
+	<imgcrc></imgcrc>
+	<filename>bbb-h-abmka</filename>
+	<releasename>Has.Been.Heroes.NSW-BigBlueBox</releasename>
+	<trimmedsize>0</trimmedsize>
+	<firmware>1.0.0</firmware>
+	<type>1</type>
+	<card>1</card>
+</release4>
+<release5>
+	<id>5</id>
+	<name>Puyo Puyo Tetris</name>
+	<publisher>SEGA</publisher>
+	<region>USA</region>
+	<languages>en</languages>
+	<group>BigBlueBox</group>
+	<imagesize>0</imagesize>
+	<serial>LA-H-BAACB</serial>
+	<titleid>010073C001D5E000</titleid>
+	<imgcrc></imgcrc>
+	<filename>bbb-h-baacb</filename>
+	<releasename>Puyo.Puyo.Tetris.USA.NSW-BigBlueBox</releasename>
+	<trimmedsize>0</trimmedsize>
+	<firmware>1.0.0</firmware>
+	<type>1</type>
+	<card>1</card>
+</release5>
+<release6>
+	<id>6</id>
+	<name>Lego City: Undercover</name>
+	<publisher>Warner Bros. Interactive Entertainment</publisher>
+	<region>USA</region>
+	<languages>en,fr,es</languages>
+	<group>BigBlueBox</group>
+	<imagesize>0</imagesize>
+	<serial>LA-H-ABM2A</serial>
+	<titleid>01003A30012C0000</titleid>
+	<imgcrc></imgcrc>
+	<filename>bbb-h-abm2a</filename>
+	<releasename>Lego.City.Undercover.USA.NSW-BigBlueBox</releasename>
+	<trimmedsize>0</trimmedsize>
+	<firmware>1.0.0</firmware>
+	<type>1</type>
+	<card>1</card>
+</release6>
+<release7>
+	<id>7</id>
+	<name>The Binding of Isaac: Afterbirth Plus</name>
+	<publisher>Nicalis, Inc.</publisher>
+	<region>USA</region>
+	<languages>en,ja</languages>
+	<group>BigBlueBox</group>
+	<imagesize>0</imagesize>
+	<serial>LA-H-BAAZA</serial>
+	<titleid>010021C000B6A000</titleid>
+	<imgcrc></imgcrc>
+	<filename>bbb-h-baaza</filename>
+	<releasename>The.Binding.of.Isaac.Afterbirth.plus.USA.NSW-BigBlueBox</releasename>
+	<trimmedsize>0</trimmedsize>
+	<firmware>1.0.0</firmware>
+	<type>1</type>
+	<card>1</card>
+</release7>
+<release8>
+	<id>8</id>
+	<name>Cave Story Plus</name>
+	<publisher>Nicalis, Inc.</publisher>
+	<region>USA</region>
+	<languages>en</languages>
+	<group>BigBlueBox</group>
+	<imagesize>0</imagesize>
+	<serial>LA-H-AB92A</serial>
+	<titleid>0100B7D0022EE000</titleid>
+	<imgcrc></imgcrc>
+	<filename>bbb-h-ab92a</filename>
+	<releasename>Cave.Story.plus.USA.NSW-BigBlueBox</releasename>
+	<trimmedsize>0</trimmedsize>
+	<firmware>1.0.0</firmware>
+	<type>1</type>
+	<card>1</card>
+</release8>
+<release9>
+	<id>9</id>
+	<name>Splatoon 2</name>
+	<publisher>Nintendo</publisher>
+	<region>USA</region>
+	<languages>en,fr,es</languages>
+	<group>BigBlueBox</group>
+	<imagesize>0</imagesize>
+	<serial>LA-H-AAB6B</serial>
+	<titleid>01003BC0000A0000</titleid>
+	<imgcrc></imgcrc>
+	<filename>bbb-h-aab6b</filename>
+	<releasename>Splatoon.2.USA.NSW-BigBlueBox</releasename>
+	<trimmedsize>0</trimmedsize>
+	<firmware>2.3.0</firmware>
+	<type>1</type>
+	<card>1</card>
+</release9>
+<release10>
+	<id>10</id>
+	<name>Mario + Rabbids Kingdom Battle</name>
+	<publisher>Ubisoft</publisher>
+	<region>WLD</region>
+	<languages>en,fr,de,it,es,nl</languages>
+	<group>BigBlueBox</group>
+	<imagesize>0</imagesize>
+	<serial>LA-H-BAANA</serial>
+	<titleid>010067300059A000</titleid>
+	<imgcrc></imgcrc>
+	<filename>bbb-h-baana</filename>
+	<releasename>Mario.plus.Rabbids.Kingdom.Battle.NSW-BigBlueBox</releasename>
+	<trimmedsize>0</trimmedsize>
+	<firmware>2.1.0</firmware>
+	<type>1</type>
+	<card>1</card>
+</release10>
+<release11>
+	<id>11</id>
+	<name>Pokken Tournament DX</name>
+	<publisher>Nintendo</publisher>
+	<region>WLD</region>
+	<languages>en,fr,de,it,es,ja</languages>
+	<group>BigBlueBox</group>
+	<imagesize>0</imagesize>
+	<serial>LA-H-BAAYA</serial>
+	<titleid>0100B3F000BE2000</titleid>
+	<imgcrc></imgcrc>
+	<filename>bbb-h-baaya</filename>
+	<releasename>Pokken.Tournament.DX.NSW-BigBlueBox</releasename>
+	<trimmedsize>0</trimmedsize>
+	<firmware>3.0.0</firmware>
+	<type>1</type>
+	<card>1</card>
+</release11>
+<release12>
+	<id>12</id>
+	<name>1-2-Switch</name>
+	<publisher>Nintendo</publisher>
+	<region>WLD</region>
+	<languages>en,fr,de,it,es,nl,ru,ja</languages>
+	<group>BigBlueBox</group>
+	<imagesize>0</imagesize>
+	<serial>LA-H-AACCA</serial>
+	<titleid>01000320000CC000</titleid>
+	<imgcrc></imgcrc>
+	<filename>bbb-h-aacca</filename>
+	<releasename>1.2.Switch.NSW-BigBlueBox</releasename>
+	<trimmedsize>0</trimmedsize>
+	<firmware>1.0.0</firmware>
+	<type>1</type>
+	<card>1</card>
+</release12>
+<release13>
+	<id>13</id>
+	<name>Super Bomberman R</name>
+	<publisher>Konami Digital Entertainment</publisher>
+	<region>WLD</region>
+	<languages>en,fr,de,it,es,nl,pt,ja,zh</languages>
+	<group>BigBlueBox</group>
+	<imagesize>0</imagesize>
+	<serial>LA-H-AAB8A</serial>
+	<titleid>01007AD00013E000</titleid>
+	<imgcrc></imgcrc>
+	<filename>bbb-h-aab8a</filename>
+	<releasename>Super.Bomberman.R.NSW-BigBlueBox</releasename>
+	<trimmedsize>0</trimmedsize>
+	<firmware>1.0.0</firmware>
+	<type>1</type>
+	<card>1</card>
+</release13>
+<release14>
+	<id>14</id>
+	<name>I Am Setsuna</name>
+	<publisher>Square Enix</publisher>
+	<region>WLD</region>
+	<languages>en,ja</languages>
+	<group>BigBlueBox</group>
+	<imagesize>0</imagesize>
+	<serial>LA-H-BABJA</serial>
+	<titleid>0100849000BDA000</titleid>
+	<imgcrc></imgcrc>
+	<filename>bbb-h-babja</filename>
+	<releasename>I.Am.Setsuna.NSW-BigBlueBox</releasename>
+	<trimmedsize>0</trimmedsize>
+	<firmware>1.0.0</firmware>
+	<type>1</type>
+	<card>1</card>
+</release14>
+<release15>
+	<id>15</id>
+	<name>Seiken Densetsu Collection</name>
+	<publisher>Square Enix</publisher>
+	<region>WLD</region>
+	<languages>ja</languages>
+	<group>BigBlueBox</group>
+	<imagesize>0</imagesize>
+	<serial>LA-H-ADAVA</serial>
+	<titleid>01009400030D6000</titleid>
+	<imgcrc></imgcrc>
+	<filename>bbb-h-adava</filename>
+	<releasename>Seiken.Densetsu.Collection.NSW-BigBlueBox</releasename>
+	<trimmedsize>0</trimmedsize>
+	<firmware></firmware>
+	<type>1</type>
+	<card>1</card>
+</release15>
+<release16>
+	<id>16</id>
+	<name>Puyo Puyo Tetris</name>
+	<publisher>SEGA</publisher>
+	<region>EUR</region>
+	<languages>en</languages>
+	<group>BigBlueBox</group>
+	<imagesize>0</imagesize>
+	<serial>LA-H-BAACC</serial>
+	<titleid>0100F3D001DEE000</titleid>
+	<imgcrc></imgcrc>
+	<filename>bbb-h-baacc</filename>
+	<releasename>Puyo.Puyo.Tetris.EUR.NSW-BigBlueBox</releasename>
+	<trimmedsize>0</trimmedsize>
+	<firmware>1.0.0</firmware>
+	<type>1</type>
+	<card>1</card>
+</release16>
+<release17>
+	<id>17</id>
+	<name>LEGO City: Undercover</name>
+	<publisher>Warner Bros. Interactive Entertainment</publisher>
+	<region>EUR</region>
+	<languages>en,fr,de,it,es,nl,da,pt,ru,zh</languages>
+	<group>BigBlueBox</group>
+	<imagesize>0</imagesize>
+	<serial>LA-H-ABM2B</serial>
+	<titleid>010085500130A000</titleid>
+	<imgcrc></imgcrc>
+	<filename>bbb-h-abm2b</filename>
+	<releasename>Lego.City.Undercover.EUR.NSW-BigBlueBox</releasename>
+	<trimmedsize>0</trimmedsize>
+	<firmware>1.0.0</firmware>
+	<type>1</type>
+	<card>1</card>
+</release17>
+<release18>
+	<id>18</id>
+	<name>ULTRA STREET FIGHTER II: The Final Challengers</name>
+	<publisher>Capcom</publisher>
+	<region>EUR</region>
+	<languages>en,fr,de,it,es</languages>
+	<group>BigBlueBox</group>
+	<imagesize>0</imagesize>
+	<serial>LA-H-BABBD</serial>
+	<titleid>0100BBF0027EC000</titleid>
+	<imgcrc></imgcrc>
+	<filename>bbb-h-babbd</filename>
+	<releasename>Ultra.Street.Fighter.II.The.Final.Challengers.EUR.NSW-BigBlueBox</releasename>
+	<trimmedsize>0</trimmedsize>
+	<firmware></firmware>
+	<type>1</type>
+	<card>1</card>
+</release18>
+<release19>
+	<id>19</id>
+	<name>Cars 3: Driven to Win</name>
+	<publisher>Warner Bros. Interactive Entertainment</publisher>
+	<region>EUR</region>
+	<languages>en,fr,de,it,es,nl,ru</languages>
+	<group>BigBlueBox</group>
+	<imagesize>0</imagesize>
+	<serial>LA-H-ADTDB</serial>
+	<titleid>0100744001588000</titleid>
+	<imgcrc></imgcrc>
+	<filename>bbb-h-adtdb</filename>
+	<releasename>Cars.3.Driven.to.Win.EUR.NSW-BigBlueBox</releasename>
+	<trimmedsize>0</trimmedsize>
+	<firmware></firmware>
+	<type>1</type>
+	<card>1</card>
+</release19>
+<release20>
+	<id>20</id>
+	<name>Disgaea 5 Complete</name>
+	<publisher>NIS America</publisher>
+	<region>EUR</region>
+	<languages>en,ja</languages>
+	<group>BigBlueBox</group>
+	<imagesize>0</imagesize>
+	<serial>LA-H-AACAC</serial>
+	<titleid>01005700031AE000</titleid>
+	<imgcrc></imgcrc>
+	<filename>bbb-h-aacac</filename>
+	<releasename>Disgaea.5.Complete.EUR.NSW-BigBlueBox</releasename>
+	<trimmedsize>0</trimmedsize>
+	<firmware></firmware>
+	<type>1</type>
+	<card>1</card>
+</release20>
+<release21>
+	<id>21</id>
+	<name>Minna de Waiwai! Spelunker</name>
+	<publisher>Square Enix</publisher>
+	<region>JPN</region>
+	<languages>ja</languages>
+	<group>BigBlueBox</group>
+	<imagesize>0</imagesize>
+	<serial>LA-H-BAAVA</serial>
+	<titleid>0100C3F000BD8000</titleid>
+	<imgcrc></imgcrc>
+	<filename>bbb-h-baava</filename>
+	<releasename>Minna.de.Waiwai.Spelunker.JPN.NSW-BigBlueBox</releasename>
+	<trimmedsize>0</trimmedsize>
+	<firmware></firmware>
+	<type>1</type>
+	<card>1</card>
+</release21>
+<release22>
+	<id>22</id>
+	<name>Just Dance 2017</name>
+	<publisher>Ubisoft</publisher>
+	<region>WLD</region>
+	<languages>en,fr,de,it,es,nl,pt,ru</languages>
+	<group>BigBlueBox</group>
+	<imagesize>0</imagesize>
+	<serial>LA-H-BAAAA</serial>
+	<titleid>0100BCE000598000</titleid>
+	<imgcrc></imgcrc>
+	<filename>bbb-h-baaaa</filename>
+	<releasename>Just.Dance.2017.NSW-BigBlueBox</releasename>
+	<trimmedsize>0</trimmedsize>
+	<firmware></firmware>
+	<type>1</type>
+	<card>1</card>
+</release22>
+<release23>
+	<id>23</id>
+	<name>One Piece Unlimited World Red - Deluxe Edition</name>
+	<publisher>Bandai Namco Entertainment</publisher>
+	<region>WLD</region>
+	<languages>en,fr,de,it,es,ja,zh</languages>
+	<group>BigBlueBox</group>
+	<imagesize>0</imagesize>
+	<serial>LA-H-ACL9A</serial>
+	<titleid>0100574002AF4000</titleid>
+	<imgcrc></imgcrc>
+	<filename>bbb-h-acl9a</filename>
+	<releasename>One.Piece.Unlimited.World.Red.Deluxe.Edition.NSW-BigBlueBox</releasename>
+	<trimmedsize>0</trimmedsize>
+	<firmware></firmware>
+	<type>1</type>
+	<card>1</card>
+</release23>
+<release24>
+	<id>24</id>
+	<name>Dragon Ball Xenoverse 2</name>
+	<publisher>Bandai Namco Entertainment</publisher>
+	<region>WLD</region>
+	<languages>en,fr,de,it,es,ja</languages>
+	<group>BigBlueBox</group>
+	<imagesize>0</imagesize>
+	<serial>LA-H-ABYBA</serial>
+	<titleid>010078D000F88000</titleid>
+	<imgcrc></imgcrc>
+	<filename>bbb-h-abyba</filename>
+	<releasename>Dragon.Ball.Xenoverse.2.NSW-BigBlueBox</releasename>
+	<trimmedsize>0</trimmedsize>
+	<firmware></firmware>
+	<type>1</type>
+	<card>1</card>
+</release24>
+<release25>
+	<id>25</id>
+	<name>Touhou Kobuto V: Burst Battle</name>
+	<publisher>NIS America, Inc.</publisher>
+	<region>WLD</region>
+	<languages>en</languages>
+	<group>BigBlueBox</group>
+	<imagesize>0</imagesize>
+	<serial>LA-H-AD9BA</serial>
+	<titleid>010010F004022000</titleid>
+	<imgcrc></imgcrc>
+	<filename>bbb-h-ad9ba</filename>
+	<releasename>Touhou.Kobuto.V.Burst.Battle.NSW-BigBlueBox</releasename>
+	<trimmedsize>0</trimmedsize>
+	<firmware></firmware>
+	<type>1</type>
+	<card>1</card>
+</release25>
+<release26>
+	<id>26</id>
+	<name>Fate/Extella: The Umbral Star</name>
+	<publisher>Marvelous Europe</publisher>
+	<region>WLD</region>
+	<languages>en,ja,zh,ko</languages>
+	<group>BigBlueBox</group>
+	<imagesize>0</imagesize>
+	<serial>LA-H-AC8QA</serial>
+	<titleid>010053E002EA2000</titleid>
+	<imgcrc></imgcrc>
+	<filename>bbb-h-ac8qa</filename>
+	<releasename>Fate.EXTELLA.The.Umbral.Star.NSW-BigBlueBox</releasename>
+	<trimmedsize>0</trimmedsize>
+	<firmware></firmware>
+	<type>1</type>
+	<card>1</card>
+</release26>
+<release27>
+	<id>27</id>
+	<name>LEGO Worlds</name>
+	<publisher>Warner Bros. Interactive Entertainment</publisher>
+	<region>WLD</region>
+	<languages>en,fr,de,it,nl,da,sv,nb,pt,ru,ja,zh,ko</languages>
+	<group>BigBlueBox</group>
+	<imagesize>0</imagesize>
+	<serial>LA-H-ACL4A</serial>
+	<titleid>0100838002AEA000</titleid>
+	<imgcrc></imgcrc>
+	<filename>bbb-h-acl4a</filename>
+	<releasename>LEGO.Worlds.NSW-BigBlueBox</releasename>
+	<trimmedsize>0</trimmedsize>
+	<firmware></firmware>
+	<type>1</type>
+	<card>1</card>
+</release27>
+<release28>
+	<id>28</id>
+	<name>Minecraft: Story Mode - The Complete Adventure</name>
+	<publisher>Telltale Games</publisher>
+	<region>WLD</region>
+	<languages>en,fr,de,it,es,pt</languages>
+	<group>BigBlueBox</group>
+	<imagesize>0</imagesize>
+	<serial>LA-H-ACS3A</serial>
+	<titleid>010059C002AC2000</titleid>
+	<imgcrc></imgcrc>
+	<filename>bbb-h-acs3a</filename>
+	<releasename>Minecraft.Story.Mode.The.Complete.Adventure.NSW-BigBlueBox</releasename>
+	<trimmedsize>0</trimmedsize>
+	<firmware></firmware>
+	<type>1</type>
+	<card>1</card>
+</release28>
+<release29>
+	<id>29</id>
+	<name>Sine Mora EX</name>
+	<publisher>THQ Nordic</publisher>
+	<region>WLD</region>
+	<languages>en,fr,de,it,es,pt,ja,zh</languages>
+	<group>BigBlueBox</group>
+	<imagesize>0</imagesize>
+	<serial>LA-H-ADLRA</serial>
+	<titleid>01002820036A8000</titleid>
+	<imgcrc></imgcrc>
+	<filename>bbb-h-adlra</filename>
+	<releasename>Sine.Mora.EX.NSW-BigBlueBox</releasename>
+	<trimmedsize>0</trimmedsize>
+	<firmware></firmware>
+	<type>1</type>
+	<card>1</card>
+</release29>
+<release30>
+	<id>30</id>
+	<name>Tiny Barbarian DX</name>
+	<publisher>Nicalis, Inc.</publisher>
+	<region>USA</region>
+	<languages>en,fr</languages>
+	<group>BigBlueBox</group>
+	<imagesize>0</imagesize>
+	<serial>LA-H-AB96A</serial>
+	<titleid>0100D940022F6000</titleid>
+	<imgcrc></imgcrc>
+	<filename>bbb-h-ab96a</filename>
+	<releasename>Tiny.Barbarian.DX.USA.NSW-BigBlueBox</releasename>
+	<trimmedsize>0</trimmedsize>
+	<firmware></firmware>
+	<type>1</type>
+	<card>1</card>
+</release30>
+<release31>
+	<id>31</id>
+	<name>Cars 3: Driven to Win</name>
+	<publisher>Warner Bros. Interactive Entertainment</publisher>
+	<region>USA</region>
+	<languages>en,fr,es,pt</languages>
+	<group>BigBlueBox</group>
+	<imagesize>0</imagesize>
+	<serial>LA-H-ADTDA</serial>
+	<titleid>01008D1001512000</titleid>
+	<imgcrc></imgcrc>
+	<filename>bbb-h-adtda</filename>
+	<releasename>Cars.3.Driven.to.Win.USA.NSW-BigBlueBox</releasename>
+	<trimmedsize>0</trimmedsize>
+	<firmware></firmware>
+	<type>1</type>
+	<card>1</card>
+</release31>
+<release32>
+	<id>32</id>
+	<name>Rayman Legends: Definitive Edition</name>
+	<publisher>Ubisoft</publisher>
+	<region>WLD</region>
+	<languages>en,fr,de,it,es,nl,pt,ru</languages>
+	<group>BigBlueBox</group>
+	<imagesize>0</imagesize>
+	<serial>LA-H-ACVKA</serial>
+	<titleid>01005FF002E2A000</titleid>
+	<imgcrc></imgcrc>
+	<filename>bbb-h-acvka</filename>
+	<releasename>Rayman.Legends.Definitive.Edition.NSW-BigBlueBox</releasename>
+	<trimmedsize>0</trimmedsize>
+	<firmware></firmware>
+	<type>1</type>
+	<card>1</card>
+</release32>
+<release33>
+	<id>33</id>
+	<name>Retro City Rampage DX</name>
+	<publisher>Vblank Entertainment</publisher>
+	<region>USA</region>
+	<languages>en,fr,de,it,es</languages>
+	<group>BigBlueBox</group>
+	<imagesize>0</imagesize>
+	<serial>LA-H-AECRA</serial>
+	<titleid>0100F17004156000</titleid>
+	<imgcrc></imgcrc>
+	<filename>bbb-h-aecra</filename>
+	<releasename>Retro.City.Rampage.DX.USA.NSW-BigBlueBox</releasename>
+	<trimmedsize>0</trimmedsize>
+	<firmware></firmware>
+	<type>1</type>
+	<card>1</card>
+</release33>
+<release34>
+	<id>34</id>
+	<name>Troll and I</name>
+	<publisher>Maximum Games</publisher>
+	<region>WLD</region>
+	<languages>en,fr,de,it,es</languages>
+	<group>BigBlueBox</group>
+	<imagesize>0</imagesize>
+	<serial>LA-H-AB36A</serial>
+	<titleid>0100F78002040000</titleid>
+	<imgcrc></imgcrc>
+	<filename>bbb-h-ab36a</filename>
+	<releasename>Troll.and.I.NSW-BigBlueBox</releasename>
+	<trimmedsize>0</trimmedsize>
+	<firmware></firmware>
+	<type>1</type>
+	<card>1</card>
+</release34>
+<release35>
+	<id>35</id>
+	<name>Soldam: Drop, Connect, Erase</name>
+	<publisher>Dispatch Games</publisher>
+	<region>USA</region>
+	<languages>en</languages>
+	<group>BigBlueBox</group>
+	<imagesize>0</imagesize>
+	<serial>LA-H-AB5JB</serial>
+	<titleid>0100A290048B0000</titleid>
+	<imgcrc></imgcrc>
+	<filename>bbb-h-ab5jb</filename>
+	<releasename>Soldam.Drop.Connect.Erase.USA.NSW-BigBlueBox</releasename>
+	<trimmedsize>0</trimmedsize>
+	<firmware></firmware>
+	<type>1</type>
+	<card>1</card>
+</release35>
+</releases>
