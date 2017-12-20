@@ -7,12 +7,12 @@
 	<region>WLD</region>
 	<languages>en,fr,de,it,es,ru,ja</languages>
 	<group>BigBlueBox</group>
-	<imagesize>0</imagesize>
+	<imagesize>16</imagesize>
 	<serial>LA-H-AAAAA</serial>
 	<titleid>01007EF00011E000 </titleid>
-	<imgcrc></imgcrc>
-	<filename>bbb-h-aaaaa</filename>
-	<releasename>The.Legend.of.Zelda.Breath.of.the.Wild.NSW-BigBlueBox</releasename>
+	<imgcrc>5DD119C1</imgcrc>
+	<filename>bbb-h-aaaaap</filename>
+	<releasename>The.Legend.of.Zelda.Breath.of.the.Wild.PROPER.NSW-BigBlueBox</releasename>
 	<trimmedsize>0</trimmedsize>
 	<firmware>1.0.0</firmware>
 	<type>1</type>
@@ -25,12 +25,12 @@
 	<region>WLD</region>
 	<languages>en,fr,de,it,es,nl,pt,ru,ja</languages>
 	<group>BigBlueBox</group>
-	<imagesize>0</imagesize>
+	<imagesize>8</imagesize>
 	<serial>LA-H-AABPA</serial>
 	<titleid>0100152000022000</titleid>
-	<imgcrc></imgcrc>
-	<filename>bbb-h-aabpa</filename>
-	<releasename>Mario.Kart.8.Deluxe.NSW-BigBlueBox</releasename>
+	<imgcrc>1912A1DF</imgcrc>
+	<filename>bbb-h-aabpap</filename>
+	<releasename>Mario.Kart.8.Deluxe.PROPER.NSW-BigBlueBox</releasename>
 	<trimmedsize>0</trimmedsize>
 	<firmware>1.0.0</firmware>
 	<type>1</type>
@@ -43,12 +43,12 @@
 	<region>WLD</region>
 	<languages>en,fr,de,it,es,nl,ru,ja</languages>
 	<group>BigBlueBox</group>
-	<imagesize>0</imagesize>
+	<imagesize>4</imagesize>
 	<serial>LA-H-AABQA</serial>
 	<titleid>01009B500007C000</titleid>
 	<imgcrc></imgcrc>
-	<filename>bbb-h-aabqa</filename>
-	<releasename>ARMS.NSW-BigBlueBox</releasename>
+	<filename>bbb-h-aabqap</filename>
+	<releasename>ARMS.PROPER.NSW-BigBlueBox</releasename>
 	<trimmedsize>0</trimmedsize>
 	<firmware>2.1.0</firmware>
 	<type>1</type>
@@ -61,12 +61,12 @@
 	<region>WLD</region>
 	<languages>en,fr,de,it,es</languages>
 	<group>BigBlueBox</group>
-	<imagesize>0</imagesize>
+	<imagesize>2</imagesize>
 	<serial>LA-H-ABMKA</serial>
 	<titleid>0100E29001298000</titleid>
-	<imgcrc></imgcrc>
-	<filename>bbb-h-abmka</filename>
-	<releasename>Has.Been.Heroes.NSW-BigBlueBox</releasename>
+	<imgcrc>F5A42AE3</imgcrc>
+	<filename>bbb-h-abmkap</filename>
+	<releasename>Has.Been.Heroes.PROPER.NSW-BigBlueBox</releasename>
 	<trimmedsize>0</trimmedsize>
 	<firmware>1.0.0</firmware>
 	<type>1</type>
@@ -79,12 +79,12 @@
 	<region>USA</region>
 	<languages>en</languages>
 	<group>BigBlueBox</group>
-	<imagesize>0</imagesize>
+	<imagesize>2</imagesize>
 	<serial>LA-H-BAACB</serial>
 	<titleid>010073C001D5E000</titleid>
-	<imgcrc></imgcrc>
-	<filename>bbb-h-baacb</filename>
-	<releasename>Puyo.Puyo.Tetris.USA.NSW-BigBlueBox</releasename>
+	<imgcrc>CB850E0B</imgcrc>
+	<filename>bbb-h-baacbp</filename>
+	<releasename>Puyo.Puyo.Tetris.USA.PROPER.NSW-BigBlueBox</releasename>
 	<trimmedsize>0</trimmedsize>
 	<firmware>1.0.0</firmware>
 	<type>1</type>
@@ -97,12 +97,12 @@
 	<region>USA</region>
 	<languages>en,fr,es</languages>
 	<group>BigBlueBox</group>
-	<imagesize>0</imagesize>
+	<imagesize>16</imagesize>
 	<serial>LA-H-ABM2A</serial>
 	<titleid>01003A30012C0000</titleid>
 	<imgcrc></imgcrc>
-	<filename>bbb-h-abm2a</filename>
-	<releasename>Lego.City.Undercover.USA.NSW-BigBlueBox</releasename>
+	<filename>bbb-h-abm2ap</filename>
+	<releasename>Lego.City.Undercover.USA.PROPER.NSW-BigBlueBox</releasename>
 	<trimmedsize>0</trimmedsize>
 	<firmware>1.0.0</firmware>
 	<type>1</type>
@@ -115,12 +115,12 @@
 	<region>USA</region>
 	<languages>en,ja</languages>
 	<group>BigBlueBox</group>
-	<imagesize>0</imagesize>
+	<imagesize>2</imagesize>
 	<serial>LA-H-BAAZA</serial>
 	<titleid>010021C000B6A000</titleid>
-	<imgcrc></imgcrc>
-	<filename>bbb-h-baaza</filename>
-	<releasename>The.Binding.of.Isaac.Afterbirth.plus.USA.NSW-BigBlueBox</releasename>
+	<imgcrc>BDC349DA</imgcrc>
+	<filename>bbb-h-baazap</filename>
+	<releasename>The.Binding.of.Isaac.Afterbirth.plus.USA.PROPER.NSW-BigBlueBox</releasename>
 	<trimmedsize>0</trimmedsize>
 	<firmware>1.0.0</firmware>
 	<type>1</type>
@@ -133,12 +133,12 @@
 	<region>USA</region>
 	<languages>en</languages>
 	<group>BigBlueBox</group>
-	<imagesize>0</imagesize>
+	<imagesize>2</imagesize>
 	<serial>LA-H-AB92A</serial>
 	<titleid>0100B7D0022EE000</titleid>
-	<imgcrc></imgcrc>
-	<filename>bbb-h-ab92a</filename>
-	<releasename>Cave.Story.plus.USA.NSW-BigBlueBox</releasename>
+	<imgcrc>C490709C</imgcrc>
+	<filename>bbb-h-ab92ap</filename>
+	<releasename>Cave.Story.plus.USA.PROPER.NSW-BigBlueBox</releasename>
 	<trimmedsize>0</trimmedsize>
 	<firmware>1.0.0</firmware>
 	<type>1</type>
@@ -151,12 +151,12 @@
 	<region>USA</region>
 	<languages>en,fr,es</languages>
 	<group>BigBlueBox</group>
-	<imagesize>0</imagesize>
+	<imagesize>4</imagesize>
 	<serial>LA-H-AAB6B</serial>
 	<titleid>01003BC0000A0000</titleid>
 	<imgcrc></imgcrc>
-	<filename>bbb-h-aab6b</filename>
-	<releasename>Splatoon.2.USA.NSW-BigBlueBox</releasename>
+	<filename>bbb-h-aab6bp</filename>
+	<releasename>Splatoon.2.USA.PROPER.NSW-BigBlueBox</releasename>
 	<trimmedsize>0</trimmedsize>
 	<firmware>2.3.0</firmware>
 	<type>1</type>
@@ -169,12 +169,12 @@
 	<region>WLD</region>
 	<languages>en,fr,de,it,es,nl</languages>
 	<group>BigBlueBox</group>
-	<imagesize>0</imagesize>
+	<imagesize>4</imagesize>
 	<serial>LA-H-BAANA</serial>
 	<titleid>010067300059A000</titleid>
 	<imgcrc></imgcrc>
-	<filename>bbb-h-baana</filename>
-	<releasename>Mario.plus.Rabbids.Kingdom.Battle.NSW-BigBlueBox</releasename>
+	<filename>bbb-h-baanap</filename>
+	<releasename>Mario.plus.Rabbids.Kingdom.Battle.PROPER.NSW-BigBlueBox</releasename>
 	<trimmedsize>0</trimmedsize>
 	<firmware>2.1.0</firmware>
 	<type>1</type>
@@ -187,12 +187,12 @@
 	<region>WLD</region>
 	<languages>en,fr,de,it,es,ja</languages>
 	<group>BigBlueBox</group>
-	<imagesize>0</imagesize>
+	<imagesize>4</imagesize>
 	<serial>LA-H-BAAYA</serial>
 	<titleid>0100B3F000BE2000</titleid>
 	<imgcrc></imgcrc>
-	<filename>bbb-h-baaya</filename>
-	<releasename>Pokken.Tournament.DX.NSW-BigBlueBox</releasename>
+	<filename>bbb-h-baayap</filename>
+	<releasename>Pokken.Tournament.DX.PROPER.NSW-BigBlueBox</releasename>
 	<trimmedsize>0</trimmedsize>
 	<firmware>3.0.0</firmware>
 	<type>1</type>
@@ -367,12 +367,12 @@
 	<region>JPN</region>
 	<languages>ja</languages>
 	<group>BigBlueBox</group>
-	<imagesize>0</imagesize>
+	<imagesize>8</imagesize>
 	<serial>LA-H-BAAVA</serial>
 	<titleid>0100C3F000BD8000</titleid>
 	<imgcrc></imgcrc>
-	<filename>bbb-h-baava</filename>
-	<releasename>Minna.de.Waiwai.Spelunker.JPN.NSW-BigBlueBox</releasename>
+	<filename>bbb-h-baavap</filename>
+	<releasename>Minna.de.Waiwai.Spelunker.JPN.PROPER.NSW-BigBlueBox</releasename>
 	<trimmedsize>0</trimmedsize>
 	<firmware></firmware>
 	<type>1</type>
@@ -511,12 +511,12 @@
 	<region>WLD</region>
 	<languages>en,fr,de,it,es,pt,ja,zh</languages>
 	<group>BigBlueBox</group>
-	<imagesize>0</imagesize>
+	<imagesize>2</imagesize>
 	<serial>LA-H-ADLRA</serial>
 	<titleid>01002820036A8000</titleid>
-	<imgcrc></imgcrc>
-	<filename>bbb-h-adlra</filename>
-	<releasename>Sine.Mora.EX.NSW-BigBlueBox</releasename>
+	<imgcrc>5EAACB94</imgcrc>
+	<filename>bbb-h-adlrap</filename>
+	<releasename>Sine.Mora.EX.PROPER.NSW-BigBlueBox</releasename>
 	<trimmedsize>0</trimmedsize>
 	<firmware></firmware>
 	<type>1</type>
@@ -529,12 +529,12 @@
 	<region>USA</region>
 	<languages>en,fr</languages>
 	<group>BigBlueBox</group>
-	<imagesize>0</imagesize>
+	<imagesize>2</imagesize>
 	<serial>LA-H-AB96A</serial>
 	<titleid>0100D940022F6000</titleid>
-	<imgcrc></imgcrc>
-	<filename>bbb-h-ab96a</filename>
-	<releasename>Tiny.Barbarian.DX.USA.NSW-BigBlueBox</releasename>
+	<imgcrc>2A179F9D</imgcrc>
+	<filename>bbb-h-ab96ap</filename>
+	<releasename>Tiny.Barbarian.DX.USA.PROPER.NSW-BigBlueBox</releasename>
 	<trimmedsize>0</trimmedsize>
 	<firmware></firmware>
 	<type>1</type>
@@ -547,12 +547,12 @@
 	<region>USA</region>
 	<languages>en,fr,es,pt</languages>
 	<group>BigBlueBox</group>
-	<imagesize>0</imagesize>
+	<imagesize>8</imagesize>
 	<serial>LA-H-ADTDA</serial>
 	<titleid>01008D1001512000</titleid>
 	<imgcrc></imgcrc>
-	<filename>bbb-h-adtda</filename>
-	<releasename>Cars.3.Driven.to.Win.USA.NSW-BigBlueBox</releasename>
+	<filename>bbb-h-adtdap</filename>
+	<releasename>Cars.3.Driven.to.Win.USA.PROPER.NSW-BigBlueBox</releasename>
 	<trimmedsize>0</trimmedsize>
 	<firmware></firmware>
 	<type>1</type>
@@ -583,12 +583,12 @@
 	<region>USA</region>
 	<languages>en,fr,de,it,es</languages>
 	<group>BigBlueBox</group>
-	<imagesize>0</imagesize>
+	<imagesize>2</imagesize>
 	<serial>LA-H-AECRA</serial>
 	<titleid>0100F17004156000</titleid>
-	<imgcrc></imgcrc>
-	<filename>bbb-h-aecra</filename>
-	<releasename>Retro.City.Rampage.DX.USA.NSW-BigBlueBox</releasename>
+	<imgcrc>2B7CBF86</imgcrc>
+	<filename>bbb-h-aecrap</filename>
+	<releasename>Retro.City.Rampage.DX.USA.PROPER.NSW-BigBlueBox</releasename>
 	<trimmedsize>0</trimmedsize>
 	<firmware></firmware>
 	<type>1</type>
@@ -619,15 +619,51 @@
 	<region>USA</region>
 	<languages>en</languages>
 	<group>BigBlueBox</group>
-	<imagesize>0</imagesize>
+	<imagesize>2</imagesize>
 	<serial>LA-H-AB5JB</serial>
 	<titleid>0100A290048B0000</titleid>
 	<imgcrc></imgcrc>
-	<filename>bbb-h-ab5jb</filename>
-	<releasename>Soldam.Drop.Connect.Erase.USA.NSW-BigBlueBox</releasename>
+	<filename>bbb-h-ab5jbp</filename>
+	<releasename>Soldam.Drop.Connect.Erase.USA.PROPER.NSW-BigBlueBox</releasename>
 	<trimmedsize>0</trimmedsize>
 	<firmware></firmware>
 	<type>1</type>
 	<card>1</card>
 </release35>
+<release36>
+	<id>36</id>
+	<name>Splatoon 2</name>
+	<publisher>Nintendo</publisher>
+	<region>EUR</region>
+	<languages>en,fr,de,it,es,nl,ru</languages>
+	<group>BigBlueBox</group>
+	<imagesize>4</imagesize>
+	<serial>LA-H-AAB6C</serial>
+	<titleid>0100F8F0000A2000</titleid>
+	<imgcrc></imgcrc>
+	<filename>bbb-h-aab6c</filename>
+	<releasename>Splatoon.2.EUR.NSW-BigBlueBox</releasename>
+	<trimmedsize>0</trimmedsize>
+	<firmware>2.3.0</firmware>
+	<type>1</type>
+	<card>1</card>
+</release36>
+<release37>
+	<id>37</id>
+	<name>The Binding of Isaac: Afterbirth Plus</name>
+	<publisher>Nicalis, Inc.</publisher>
+	<region>EUR</region>
+	<languages>en</languages>
+	<group>BigBlueBox</group>
+	<imagesize>2</imagesize>
+	<serial>LA-H-BAAZD</serial>
+	<titleid>01005B9002312000</titleid>
+	<imgcrc></imgcrc>
+	<filename>bbb-h-baazd</filename>
+	<releasename>The.Binding.of.Isaac.Afterbirth.plus.EUR.NSW-BigBlueBox</releasename>
+	<trimmedsize>0</trimmedsize>
+	<firmware></firmware>
+	<type>1</type>
+	<card>1</card>
+</release37>
 </releases>
